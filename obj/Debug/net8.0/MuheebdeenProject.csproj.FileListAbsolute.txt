@@ -1,0 +1,14 @@
+C:\Users\HP\RiderProjects\Muheebdeen-Project\bin\Debug\net8.0\MaryamProject.exe
+C:\Users\HP\RiderProjects\Muheebdeen-Project\bin\Debug\net8.0\MaryamProject.deps.json
+C:\Users\HP\RiderProjects\Muheebdeen-Project\bin\Debug\net8.0\MaryamProject.runtimeconfig.json
+C:\Users\HP\RiderProjects\Muheebdeen-Project\bin\Debug\net8.0\MaryamProject.dll
+C:\Users\HP\RiderProjects\Muheebdeen-Project\bin\Debug\net8.0\MaryamProject.pdb
+C:\Users\HP\RiderProjects\Muheebdeen-Project\obj\Debug\net8.0\MaryamProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\RiderProjects\Muheebdeen-Project\obj\Debug\net8.0\MaryamProject.AssemblyInfoInputs.cache
+C:\Users\HP\RiderProjects\Muheebdeen-Project\obj\Debug\net8.0\MaryamProject.AssemblyInfo.cs
+C:\Users\HP\RiderProjects\Muheebdeen-Project\obj\Debug\net8.0\MaryamProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\RiderProjects\Muheebdeen-Project\obj\Debug\net8.0\MaryamProject.dll
+C:\Users\HP\RiderProjects\Muheebdeen-Project\obj\Debug\net8.0\refint\MaryamProject.dll
+C:\Users\HP\RiderProjects\Muheebdeen-Project\obj\Debug\net8.0\MaryamProject.pdb
+C:\Users\HP\RiderProjects\Muheebdeen-Project\obj\Debug\net8.0\MaryamProject.genruntimeconfig.cache
+C:\Users\HP\RiderProjects\Muheebdeen-Project\obj\Debug\net8.0\ref\MaryamProject.dll
