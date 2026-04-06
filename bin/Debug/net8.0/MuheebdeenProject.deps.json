@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "MaryamProject/1.0.0": {
+      "MuheebdeenProject/1.0.0": {
         "runtime": {
-          "MaryamProject.dll": {}
+          "MuheebdeenProject.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "MaryamProject/1.0.0": {
+    "MuheebdeenProject/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

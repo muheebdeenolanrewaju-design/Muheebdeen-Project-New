@@ -86,7 +86,12 @@ public static class StudentUserHandler
                         Console.WriteLine("-------------------");
                         Console.WriteLine("Get all student");
                         Console.WriteLine("-------------------");
-                        StudentServiceRepository.GetAllStudents();
+                       var students = StudentServiceRepository.GetAllStudents();
+                        foreach (var Student in students)
+
+                        {
+                            Console.WriteLine(($" Name: {Student.Name} | StaffID: {Student.StudentId} | Age: {Student.Age} | Address: {Student.Address} | Gender: {Student.Gender}"));
+                        }
                         break;
                     
                     case "4":
@@ -100,7 +105,7 @@ public static class StudentUserHandler
                         Console.WriteLine("Enter new address: ");
                         string addressToUpdate = Console.ReadLine();
 
-                        StudentServiceRepository.UpdateStudent(idToUpdate, ageToUpdate, addressToUpdate);
+                        StudentServiceRepository.UpdateStudent(idToUpdate,  addressToUpdate, ageToUpdate);
                         break;
                     
                     case "5":

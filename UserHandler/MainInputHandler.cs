@@ -1,5 +1,4 @@
 ﻿
-
 namespace MuheebdeenProject.UserHandler;
 
 public static class MainInputHandler

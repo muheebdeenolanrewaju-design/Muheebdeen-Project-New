@@ -88,7 +88,12 @@ public class VendorUserHandler
                         Console.WriteLine("-------------------");
                         Console.WriteLine("Get all Lecturers");
                         Console.WriteLine("-------------------");
-                        VendorServiceRepository.GetAllVendor();
+                       var vendors = VendorServiceRepository.GetAllVendor();
+                        foreach (var vendor in vendors)
+
+                        {
+                            Console.WriteLine(($" Name: {vendor.Name} | StaffID: {vendor.VendorId} | Age: {vendor.Age} | Address: {vendor.Address} | Gender: {vendor.Gender}"));
+                        }
                         break;
 
                     case "4":
@@ -102,7 +107,7 @@ public class VendorUserHandler
                         Console.WriteLine("Enter new address: ");
                         string addressToUpdate = Console.ReadLine();
 
-                        VendorServiceRepository.UpdateVendorInfo(idToUpdate, ageToUpdate, addressToUpdate);
+                        VendorServiceRepository.UpdateVendorInfo(idToUpdate, addressToUpdate, ageToUpdate);
                         break;
 
                     case "5":
